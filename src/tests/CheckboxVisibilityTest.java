@@ -19,6 +19,7 @@ public class CheckboxVisibilityTest {
         } else {
             System.out.println("Test Failed: checkbox is not visible");
         }
+        
 
         Thread.sleep(3000);
         driver.quit();
